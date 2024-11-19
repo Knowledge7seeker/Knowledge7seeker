@@ -1,6 +1,3 @@
-Here’s a fun and personalized `README.md` template that reflects your persona and interests!  
-
----
 
 # 👨‍💻 Estifanos' GitHub Persona  
 
