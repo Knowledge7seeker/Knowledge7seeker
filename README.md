@@ -1,6 +1,4 @@
 
-# 👨‍💻 Estifanos' GitHub Persona  
-
 Welcome to my GitHub! 🚀 I’m Estifanos, an **AI researcher**, **junior software engineer**, and lifelong learner passionate about pushing the boundaries of **Natural Language Processing (NLP)**, **Graph Neural Networks (GNNs)**, and **unsupervised learning**.  
 
 ## 🌟 About Me  
